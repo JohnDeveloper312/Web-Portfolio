@@ -26,6 +26,7 @@ body{
 nav{
   text-align: right;
   margin-bottom: 25px;
+  margin-right: 1%;
 }
 
 /* Centering my Image*/
@@ -33,7 +34,7 @@ nav{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
+  width: 45%;
 }
 
 h2{
